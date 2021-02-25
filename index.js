@@ -78,7 +78,7 @@ const resultNot = !true
 
 console.log(resultNot)
 
-//vamos a agregar un comentario a este programa para asi poder guardarlo
+//vamos a agregar un comentario a este programa para asi poder guardarlo 
 
 
 
